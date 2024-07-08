@@ -41,18 +41,18 @@ Width-wise learning, as demonstrated by SE-Net, proves essential for effective i
 ## References
 
 1. Dataset: [Carrier, P-C. and Courville, A. (2020), "Facial Recognition Dataset", Kaggle, Available at: [Facial Recognition Dataset (kaggle.com)](https://www.kaggle.com)]
-2. [Albraikan, A. et al. (2022), "Intelligent facial expression recognition and classification using optimal deep transfer learning model", Image and Vision Computing.]
-3. [Akhand, M. et al. (2021), "Facial recognition using transfer learning in the deep CNN", Electronics.]
-4. [Chauhan, T. et al. (2021), "Optimization and fine-tuning of DenseNet model for classification of COVID-19 cases in medical imaging", International Journal of Information Management Data Insights.]
-5. [Dai, Z. and Heckel, R. (2019), "Channel Normalization in Convolutional Neural Networks avoids Vanishing Gradients".]
-6. [Goodfellow, I. et al. (2016), Deep Learning, MIT Press.]
-7. [Guo, P. and Song, C. (2022), "Facial Recognition with Squeeze-and-Excitation Network", 2022 7th International Conference on Intelligent Computing and Signal Processing.]
-8. [He, K. et al. (2015), "Deep Residual Learning for Image Recognition", Microsoft Research.]
-9. [Hu, J. et al. (2019), "Squeeze-and-Excitation Networks".]
-10. [Huang, G. et al. (2018), "Densely Connected Convolution Networks".]
-11. [Xu, W. and Cloutier, R. (2022), "A facial expression recognizer using modified ResNet-152", EAI Endorsed Transaction on Internet of Things.]
-12. [PyTorch (n.d.), "densenet 161", Available at: [Torchvision main documentation](https://pytorch.org)]
-13. [PyTorch (n.d.), "Models and Pre-Trained Weights", Available at: [Torchvision 0.16 documentation](https://pytorch.org)]
-14. [PyTorch (n.d.), "ResNet", Available at: [ResNet | PyTorch](https://pytorch.org)]
-15. [PyTorch (n.d.), "ResNet 18", Available at: [Torchvision main documentation](https://pytorch.org)]
-16. [Raschka, S. et al. (2022), "Machine Learning with PyTorch and Sikit-Learn", Packt, Birmingham, UK.]
+2. Albraikan, A. et al. (2022), "Intelligent facial expression recognition and classification using optimal deep transfer learning model", Image and Vision Computing.
+3. Akhand, M. et al. (2021), "Facial recognition using transfer learning in the deep CNN", Electronics.
+4. Chauhan, T. et al. (2021), "Optimization and fine-tuning of DenseNet model for classification of COVID-19 cases in medical imaging", International Journal of Information Management Data Insights.
+5. Dai, Z. and Heckel, R. (2019), "Channel Normalization in Convolutional Neural Networks avoids Vanishing Gradients".
+6. Goodfellow, I. et al. (2016), Deep Learning, MIT Press.
+7. Guo, P. and Song, C. (2022), "Facial Recognition with Squeeze-and-Excitation Network", 2022 7th International Conference on Intelligent Computing and Signal Processing.
+8. He, K. et al. (2015), "Deep Residual Learning for Image Recognition", Microsoft Research.
+9. Hu, J. et al. (2019), "Squeeze-and-Excitation Networks".
+10. Huang, G. et al. (2018), "Densely Connected Convolution Networks".
+11. Xu, W. and Cloutier, R. (2022), "A facial expression recognizer using modified ResNet-152", EAI Endorsed Transaction on Internet of Things.
+12. PyTorch (n.d.), "densenet 161", Available at: [Torchvision main documentation](https://pytorch.org)
+13. PyTorch (n.d.), "Models and Pre-Trained Weights", Available at: [Torchvision 0.16 documentation](https://pytorch.org)
+14. PyTorch (n.d.), "ResNet", Available at: [ResNet | PyTorch](https://pytorch.org)
+15. PyTorch (n.d.), "ResNet 18", Available at: [Torchvision main documentation](https://pytorch.org)
+16. Raschka, S. et al. (2022), "Machine Learning with PyTorch and Sikit-Learn", Packt, Birmingham, UK.
