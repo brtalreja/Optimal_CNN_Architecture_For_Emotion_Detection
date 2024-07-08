@@ -40,7 +40,7 @@ Width-wise learning, as demonstrated by SE-Net, proves essential for effective i
 
 ## References
 
-1. Dataset: [Carrier, P-C. and Courville, A. (2020), "Facial Recognition Dataset", Kaggle, Available at: [Facial Recognition Dataset (kaggle.com)](https://www.kaggle.com)]
+1. Dataset: [Facial Recognition Dataset (kaggle.com)](https://www.kaggle.com), Carrier, P-C. and Courville, A. (2020), "Facial Recognition Dataset", Kaggle.
 2. Albraikan, A. et al. (2022), "Intelligent facial expression recognition and classification using optimal deep transfer learning model", Image and Vision Computing.
 3. Akhand, M. et al. (2021), "Facial recognition using transfer learning in the deep CNN", Electronics.
 4. Chauhan, T. et al. (2021), "Optimization and fine-tuning of DenseNet model for classification of COVID-19 cases in medical imaging", International Journal of Information Management Data Insights.
